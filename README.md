@@ -14,8 +14,8 @@ We analyzed hacker news submissions of two main kinds:
 
 Our goals were to find out the following:
 
-1. Do "Ask HN" or "Show HN" receive more comments on average?
-2. Does the time of the day a submission is posted have any bearing on the amount of comments a post receives?
+- Do "Ask HN" or "Show HN" receive more comments on average?
+- Does the time of the day a submission is posted have any bearing on the amount of comments a post receives?
 
 ## Working with the Data
 
