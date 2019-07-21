@@ -19,9 +19,9 @@ Our goals were to find out the following:
 
 ## Working with the Data
 
-1. First we split the data into 2 tables for "Ask HN" and "Show HN" submissions.
+1. First we split the data into 2 tables for "Ask HN" and "Show HN" submissions, to compare the number of comments received by the two different types of submissions.
 
-We saw that on average, "ask hn" posts receive about 14.04 comments, whereas "show hn" posts receive about 10.32 comments. This is a fairly significant difference, with "ask hn" posts leading by almost 40% more comments. It's possible that this might be because "ask hn" posts inherently arouse more discussion, where people chime in with their opinions and then comment on the suggestions to the question raised.
+We saw that on average, "ask hn" posts receive about 14.04 comments, whereas "show hn" posts receive about 10.32 comments. This is a fairly significant difference, with "ask hn" posts leading by almost 40% more comments. **It's possible that this might be because "ask hn" posts inherently arouse more discussion, where people chime in with their opinions and then comment on the suggestions to the question raised.**
 
 2. Determining correlation between no. of comments and time of the day.
 
