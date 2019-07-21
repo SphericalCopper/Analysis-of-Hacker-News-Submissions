@@ -26,6 +26,7 @@ We saw that on average, "ask hn" posts receive about 14.04 comments, whereas "sh
 2. Determining correlation between no. of comments and time of the day.
 
 The `datetime` library was used to segment the posts into hours, and then the no. of comments that were posted in the average submission that was submitted in a particular hour were tallied up, and after some manipulation the following information was deduced:
+
 ![comments by hour](https://gyazo.com/c7b54ff31186dddc28ebef76b5b1cd54)
 
 Above, we see the top 5 most ideal times to make a "ask hn" post that generates the most responses. These times are Eastern times in the US.
