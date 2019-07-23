@@ -1,4 +1,4 @@
-# Analysis-of-Hacker-News-Submissions
+# Analysis of Hacker News Submissions
 In this project, [Hacker News Submissions](https://news.ycombinator.com/) were analyzed to determine how a user should go about making a post in order for it to generate the most traction, measured primarily by the amount of responses from other users on the board.
 
 The [dataset](https://www.kaggle.com/hacker-news/hacker-news-posts) used was reduced from almost 300,000 rows to approximately 20,000 rows by removing all submissions that did not receive any comments, and then randomly sampling from the remaining submissions.
